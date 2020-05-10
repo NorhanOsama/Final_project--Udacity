@@ -8,8 +8,9 @@ Upload BikeSharing.py analysis to github as a project for UDACITY.
 this project about analysis for bikesharing for rental from chicago and new york and washington.
 
 ### Files used
-1.Dataset
-2.Bikesharing.py
+1. Dataset
+
+2. Bikesharing.py
 
 ### Credits
 https://github.com/NorhanOsama/pdsnd_github.
