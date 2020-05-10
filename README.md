@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+10/5/2020
 
 ### Project Title
-Replace the Project Title
+Upload BikeSharing.py analysis to github.
 
 ### Description
-Describe what your project is about and what it does
+this project about analysis for bikesharing for rental from chicago and new york and washington.
 
 ### Files used
-Include the files used
+1.Dataset
+2.Bikesharing.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/NorhanOsama/pdsnd_github.
+
 
