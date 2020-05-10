@@ -2,7 +2,7 @@
 10/5/2020
 
 ### Project Title
-Upload BikeSharing.py analysis to github.
+Upload BikeSharing.py analysis to github as a project for UDACITY.
 
 ### Description
 this project about analysis for bikesharing for rental from chicago and new york and washington.
