@@ -1,3 +1,6 @@
+"""
+Udacity analysis project 
+"""
 import time
 import math
 import pandas as pd
@@ -169,7 +172,6 @@ def t_s(dataset):
             m_f_d = num.title()
     print('The most common day of week for travel is {}'.format(m_f_d))
 
-
     # TO DO: display the most common start hour
     dataset['hour']=pd.to_datetime(dataset['Start Time']).dt.hour
     m_f_h = dataset['hour'].mode()[0]
@@ -325,3 +327,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
